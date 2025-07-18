@@ -45,7 +45,7 @@ Dynamic filters for faster insights
 
 ## 📷 Dashboard Preview
 
-[Pizza Dashboard](https://pizzasales2025.streamlit.app/)
+[IPL Dashboard](https://ipldeshboard.streamlit.app/)
 
 ## 📫 Contact
 Name: Harshit Chugh
