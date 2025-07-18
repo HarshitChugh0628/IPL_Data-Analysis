@@ -51,5 +51,11 @@ Dynamic filters for faster insights
 Name: Harshit Chugh
 
 [Email](10harshit2003@gmail.com)
+
 [Linkdin](https://www.linkedin.com/in/harshitchugh2810/)
+
+
+❤️ Acknowledgements :
+
+Thanks for your Support
 
