@@ -6,7 +6,7 @@
   </a>
 </p>
 
-🏏 IPL Data Analysis Dashboard
+<h1 align="center">🏏 IPL Data Analysis Dashboard </h1>
 This Power BI project provides a comprehensive analysis of IPL (Indian Premier League) matches and player performance. The dashboard offers insights into match outcomes, top performers, venue-based stats, and team comparisons using interactive visuals and filters.
 
 📊 Project Overview
