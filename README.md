@@ -10,7 +10,7 @@
 
 This Power BI project provides a comprehensive analysis of IPL (Indian Premier League) matches and player performance. The dashboard offers insights into match outcomes, top performers, venue-based stats, and team comparisons using interactive visuals and filters.
 
-📊 Project Overview
+## 📊 Project Overview
 Project Title: IPL Data Analysis Dashboard
 
 Tool Used: Microsoft Power BI
@@ -19,7 +19,7 @@ Dataset: IPL matches and player statistics (custom dataset, cleaned and transfor
 
 Objective: To provide dynamic insights into IPL team and player performance using interactive visualizations.
 
-🧠 Key Insights
+## 🧠 Key Insights
 Top Run Scorers & Wicket Takers by season
 
 Win percentage of each team
@@ -34,7 +34,7 @@ Season-wise team dominance
 
 Player of the Match analysis
 
-📌 Features
+## 📌 Features
 Interactive Slicers (Team, Venue, Season, Player)
 
 Clean and minimal UI for readability
@@ -42,4 +42,14 @@ Clean and minimal UI for readability
 Drill-down and tooltip-enabled charts
 
 Dynamic filters for faster insights
+
+## 📷 Dashboard Preview
+
+[Pizza Dashboard](https://pizzasales2025.streamlit.app/)
+
+## 📫 Contact
+Name: Harshit Chugh
+
+[Email](10harshit2003@gmail.com)
+[Linkdin](https://www.linkedin.com/in/harshitchugh2810/)
 
