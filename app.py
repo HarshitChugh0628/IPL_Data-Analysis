@@ -2,9 +2,9 @@ import streamlit as st
 import streamlit.components.v1 as components
 
 
-st.set_page_config(page_title="IPL Data Analysis", page_icon="🍕", layout="wide")
+st.set_page_config(page_title="IPL Data Analysis", page_icon="🏏", layout="wide")
 
-st.markdown("""<h1 style='text-align:center; color:#FF4B4B;'>🍕 IPL Data Analysis</h1>""", unsafe_allow_html=True)
+st.markdown("""<h1 style='text-align:center; color:#FF4B4B;'>🏏 IPL Data Analysis</h1>""", unsafe_allow_html=True)
 st.markdown("<div style='margin-top: 40px;'></div>", unsafe_allow_html=True)
 
 ## sidebar
